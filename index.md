@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
-author: worldline1
-description: my first blog!!
+title: Welcome to my first blog
 ---
 
